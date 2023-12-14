@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4236f00-4bcf-4eaf-898e-0e3376252b8b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2HfRnodH7S4WzpfqiTPtvgn1gOC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../JAR Files/mysql-connector-java-8.0.11.jar" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GDSE - 63\1st Sem Final Project\SkyLineLibrary - (1)\SkyLineLibrary -\SkyLineLibrary - Copy-Done\SkyLineLibrary - Copy-Done\src\lk\ijse\skylinelibrary\assert" />
+      <recent name="C:\Users\DELL\IdeaProjects\SkyLineLibrary - Copy-Done\SkyLineLibrary - Copy-Done\src\lk\ijse\skylinelibrary\assert" />
+      <recent name="C:\Users\DELL\IdeaProjects\SkyLineLibrary\src\lk\ijse\skylinelibrary\assert" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="lk.ijse.skylinelibrary.service.custom" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AppInitializer">
+    <configuration name="AppInitializer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="AppInitializer" />
+      <module name="SkyLineLibrary - Copy-Done" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo" />
+      <module name="SkyLineLibrary - Copy-Done" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AppInitializer" />
+      <item itemvalue="Application.Demo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppInitializer" />
+        <item itemvalue="Application.Demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4236f00-4bcf-4eaf-898e-0e3376252b8b" name="Changes" comment="" />
+      <created>1668674322834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668674322834</updated>
+      <workItem from="1668674324382" duration="1062000" />
+      <workItem from="1668675732019" duration="11385000" />
+      <workItem from="1668689471497" duration="634000" />
+      <workItem from="1668690137394" duration="734000" />
+      <workItem from="1668694939091" duration="7310000" />
+      <workItem from="1668746515622" duration="13172000" />
+      <workItem from="1668791045349" duration="54000" />
+      <workItem from="1668798773238" duration="12000" />
+      <workItem from="1668926160499" duration="6000" />
+      <workItem from="1669782161935" duration="155000" />
+      <workItem from="1669782431481" duration="22000" />
+      <workItem from="1669782666636" duration="60000" />
+      <workItem from="1674709134695" duration="1250000" />
+      <workItem from="1674710467245" duration="443000" />
+      <workItem from="1674710951416" duration="1473000" />
+      <workItem from="1674714014328" duration="2871000" />
+      <workItem from="1675330178477" duration="13681000" />
+      <workItem from="1675402456587" duration="1121000" />
+      <workItem from="1675405955048" duration="1201000" />
+      <workItem from="1675452337516" duration="989000" />
+      <workItem from="1675566310234" duration="20833000" />
+      <workItem from="1675654990970" duration="1642000" />
+      <workItem from="1675671915508" duration="914000" />
+      <workItem from="1675691948662" duration="8974000" />
+      <workItem from="1675925704423" duration="12915000" />
+      <workItem from="1675956565903" duration="1955000" />
+      <workItem from="1676168314796" duration="2600000" />
+      <workItem from="1676176077887" duration="6866000" />
+      <workItem from="1676349719974" duration="57000" />
+      <workItem from="1686751728883" duration="69000" />
+      <workItem from="1702548749452" duration="420000" />
+      <workItem from="1702549188425" duration="145000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
